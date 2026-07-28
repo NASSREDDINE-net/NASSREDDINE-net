@@ -126,7 +126,7 @@
 |---------|-------------|
 | 🌐 SI NASSER | Digital Store |
 | 🏕 OSC Maroc | Official Scout Website |
-| 🤖 AI Tools | AI & Automation Projects |
+
 
 ---
 
