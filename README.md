@@ -18,7 +18,7 @@
 👤 Name      : NASSREDDINE
 🌍 Country   : Morocco 🇲🇦
 💼 Role      : Full Stack Web Developer
-⚡ Focus     : HTML • CSS • JavaScript • WordPress • AI
+⚡ Focus     : HTML • CSS • JavaScript • WordPress • 
 🚀 Status    : Building Modern Digital Experiences
 ```
 
@@ -33,7 +33,6 @@
 
 ⚡ HTML • CSS • JavaScript
 
-🤖 AI Enthusiast
 
 📚 Always Learning
 
