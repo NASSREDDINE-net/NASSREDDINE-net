@@ -13,7 +13,7 @@
 # 🖥️ SYSTEM TERMINAL
 
 ```bash
-> whoami
+
 
 👤 Name      : NASSREDDINE
 🌍 Country   : Morocco 🇲🇦
