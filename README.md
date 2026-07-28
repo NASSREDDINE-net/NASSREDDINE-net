@@ -141,7 +141,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://nassreddine-net.github.io/SI-NASSER/">
+<a href="https://nassreddine-net.github.io">
 <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge">
 </a>
 
