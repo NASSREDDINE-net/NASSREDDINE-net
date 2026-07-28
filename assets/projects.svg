@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="n" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#ff00d4"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="24" fill="#050816"/>
+<g transform="translate(40 40)">
+  <rect width="520" height="220" rx="22" fill="#0b1020" stroke="#00f5ff" stroke-width="2"/>
+  <text x="30" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#00f5ff">🌐 SI NASSER</text>
+  <text x="30" y="100" font-family="Arial" font-size="20" fill="#e5e7eb">Professional digital store and web services.</text>
+  <text x="30" y="145" font-family="monospace" font-size="18" fill="#a78bfa">HTML • CSS • JavaScript • GitHub Pages</text>
+  <rect x="30" y="172" width="180" height="34" rx="17" fill="#00f5ff"/>
+  <text x="120" y="195" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#061018">OPEN PROJECT</text>
+</g>
+<g transform="translate(640 40)">
+  <rect width="520" height="220" rx="22" fill="#0b1020" stroke="#ff00d4" stroke-width="2"/>
+  <text x="30" y="55" font-family="Arial" font-size="30" font-weight="700" fill="#ff5ce1">🏕 OSC MAROC</text>
+  <text x="30" y="100" font-family="Arial" font-size="20" fill="#e5e7eb">Official scout organization website project.</text>
+  <text x="30" y="145" font-family="monospace" font-size="18" fill="#a78bfa">WordPress • Elementor • Responsive Design</text>
+  <rect x="30" y="172" width="180" height="34" rx="17" fill="#ff00d4"/>
+  <text x="120" y="195" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#180015">OPEN WEBSITE</text>
+</g>
+</svg>
