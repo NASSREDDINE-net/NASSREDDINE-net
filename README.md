@@ -7,7 +7,7 @@
 <a href="https://github.com/NASSREDDINE-net">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub">
 </a>
-<a href="https://nassreddine-net.github.io/SI-NASSER/">
+<a href="https://nassreddine-net.github.io">
 <img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=googlechrome&logoColor=FF00D4" alt="Website">
 </a>
 <img src="https://komarev.com/ghpvc/?username=NASSREDDINE-net&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views">
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<a href="https://nassreddine-net.github.io/SI-NASSER/">
+<a href="https://nassreddine-net.github.io/">
 <img src="https://img.shields.io/badge/OPEN_SI_NASSER-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Open SI NASSER">
 </a>
 
@@ -74,15 +74,7 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/NASSREDDINE-net/NASSREDDINE-net/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</div>
-
-> The snake appears after enabling GitHub Actions and running the included workflow once.
-
----
 
 ## 🌍 CONNECT WITH ME
 
@@ -92,7 +84,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="https://nassreddine-net.github.io/SI-NASSER/">
+<a href="https://nassreddine-net.github.io/">
 <img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
@@ -104,10 +96,7 @@
 
 ### ⚡ BUILD • CREATE • INNOVATE ⚡
 
-```text
-SYSTEM STATUS : ONLINE
-DEVELOPER     : NASSREDDINE
-LOCATION      : MOROCCO
+
 ```
 
 Made with ❤️ by **NASSREDDINE**
